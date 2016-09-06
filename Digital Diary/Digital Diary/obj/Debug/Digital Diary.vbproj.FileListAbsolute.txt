@@ -1,0 +1,18 @@
+c:\users\amal shehu\documents\visual studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Form1.resources
+c:\users\amal shehu\documents\visual studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Form2.resources
+c:\users\amal shehu\documents\visual studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Resources.resources
+c:\users\amal shehu\documents\visual studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital Diary.vbproj.GenerateResource.Cache
+c:\users\amal shehu\documents\visual studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Digital Diary.exe.config
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Digital Diary.exe.config
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Database1.mdf
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Database1_log.ldf
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Digital Diary.exe
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Digital Diary.pdb
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\bin\Debug\Digital Diary.xml
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Form1.resources
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Form2.resources
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Resources.resources
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital Diary.vbproj.GenerateResource.Cache
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital Diary.exe
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital Diary.xml
+G:\Amal Shehu\Documents\Visual Studio 2012\Projects\Digital Diary\Digital Diary\obj\Debug\Digital Diary.pdb

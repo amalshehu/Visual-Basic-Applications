@@ -1,0 +1,22 @@
+C:\Users\23562\Desktop\Login Example\Login Example\bin\Debug\Login Example.exe
+C:\Users\23562\Desktop\Login Example\Login Example\bin\Debug\Login Example.pdb
+C:\Users\23562\Desktop\Login Example\Login Example\bin\Debug\Login Example.xml
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\Login_Example.Loginfrm.resources
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\Login_Example.Mainfrm.resources
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\Login_Example.Resources.resources
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\Login Example.exe
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\Login Example.xml
+C:\Users\23562\Desktop\Login Example\Login Example\obj\x86\Debug\Login Example.pdb
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login Example.exe
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login Example.xml
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login Example.pdb
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\bin\Debug\Login Example.exe
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\bin\Debug\Login Example.pdb
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\bin\Debug\Login Example.xml
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login_Example.Loginfrm.resources
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login_Example.Mainfrm.resources
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login_Example.Resources.resources
+C:\Users\Amal Shehu\Documents\Visual Studio 2012\Projects\Login Example\Login Example\obj\x86\Debug\Login Example.vbproj.GenerateResource.Cache

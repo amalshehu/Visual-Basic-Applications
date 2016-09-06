@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Vehicle_Registration.My.MySettings.VehicleConnectionString"
+            connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Vehicle.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Vehicle_Registration.My.MySettings.veh1ConnectionString"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\veh1.mdb"
+            providerName="System.Data.OleDb" />
+        <add name="Vehicle_Registration.My.MySettings.veh1ConnectionString1"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\bin\Debug\veh1.mdb"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+</configuration>

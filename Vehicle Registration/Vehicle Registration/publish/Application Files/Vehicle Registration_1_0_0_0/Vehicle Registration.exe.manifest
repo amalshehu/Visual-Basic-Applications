@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Vehicle Registration.exe" version="1.0.0.0" publicKeyToken="c9e4bea855962e29" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Vehicle Registration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Vehicle Registration.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Vehicle Registration.exe" size="175616">
+      <assemblyIdentity name="Vehicle Registration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LmpAmDBezQZkOQOYCcOuWyH7hnnkCgwilrfxEqBCMvA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="veh1.mdb" size="344064" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JMstvdEth6jYEG7CL8Fe/V/G/ore6BVIPpj9tmgYW/c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Vehicle Registration.exe.config" size="1012">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AFSgADCdakvCy4tpmlYIjr63pnXROnevqoeSWbLG950=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ASHMXMZ\Amal Shehu" issuerKeyHash="0f65bd5a629d90a22445f6dc80187e1c5c8ab9f9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LZSTh6ON32gd3IjsAMeNyKZLnw9UExMRFWPcEw6yDkw=</DigestValue></Reference></SignedInfo><SignatureValue>cZwrZSoxsI3scdZyRNX/Ph2ZnafBTHw06EKA1mytW9rytLXHnOnvBLnuqKHN1+KqtI8MRlwwWBZ2qaP6Ld/5PwfCgoXYXcPea0Dg5mGpVCvaA8IQbmdfPerg0DD3pCq28Uf1Kcr7FPXtmpiGxEB/89XbrCFSIf4J1jd0y8eV6jU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wL/J1cAyCwVbcM3RIApcpAaSZ26kzaqP/leR6RV1j9Sai2VxupoGD6j3KaytV8gMh44kzFpy2TqTYmJNwJ7dPMeoWZpPQlXrb3zBrHX5Rv00PVsUcXtPjCJKzRdW4x2gasKbLBCyQ1cMlTG1q4Hc9NiYo67uQSn2uF6c8KYO7NE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4c0eb20e13dc6315111313540f9f4ba6c88dc700ec88dc1d68df8da38793942d" Description="" Url=""><as:assemblyIdentity name="Vehicle Registration.exe" version="1.0.0.0" publicKeyToken="c9e4bea855962e29" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ASHMXMZ\Amal Shehu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PWFMYcRxPczLgdVHKpv68zFT4qkOun0PBCGcdjioS1Q=</DigestValue></Reference></SignedInfo><SignatureValue>GAVTH4dYPh9Wld8gm3P48f0dTzUawuRwyLadwtfH8tVCn33TOPbDkxybTr3o5u2DETDxzXc1wn+KwxkYZmG6sRKc0166If/DbFnYIXcsAqpnBJ1MrYuqcJUUrrdATKO88bnCxrSX8Fr06kOq8jCRXLUiCb9UUhFSchVXVmXOdyY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wL/J1cAyCwVbcM3RIApcpAaSZ26kzaqP/leR6RV1j9Sai2VxupoGD6j3KaytV8gMh44kzFpy2TqTYmJNwJ7dPMeoWZpPQlXrb3zBrHX5Rv00PVsUcXtPjCJKzRdW4x2gasKbLBCyQ1cMlTG1q4Hc9NiYo67uQSn2uF6c8KYO7NE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQKqeN9SLoLYBM+wPlA8K+PjANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAQQBTAEgATQBYAE0AWgBcAEEAbQBhAGwAIABTAGgAZQBoAHUwHhcNMTQxMDA5MTcxNzQyWhcNMTUxMDA5MjMxNzQyWjAvMS0wKwYDVQQDHiQAQQBTAEgATQBYAE0AWgBcAEEAbQBhAGwAIABTAGgAZQBoAHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMC/ydXAMgsFW3DN0SAKXKQGkmdupM2qj/5XkekVdY/UmotlcbqaBg+o9ymsrVfIDIeOJMxactk6k2JiTcCe3TzHqFmaT0JV6298wax1+Ub9ND1bFHF7T4wiSs0XVuMdoGrCmywQskNXDJUxtauB3PTYmKOu7kEp9rhenPCmDuzRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAVpFhG5f93O6f2azVt0YvBF7MqdJoml1gNOXKPQ10aOdzVm+9dJ1WZZvIH21SMtZkU0G+mxSu4VjcRAxD5uXpd8bxjWw+jjIhhU1u745F7v1FPr54Mej8LJSmaaSiEyu3GwQg7xcjzDwcIvOr5a1EsslmgLcxTVzahOrTvmHHDj8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
